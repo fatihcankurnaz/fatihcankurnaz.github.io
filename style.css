@@ -1096,7 +1096,7 @@ button:focus {
 @media (max-width: 1199px) {
 
 	.navbar-brand img {
-		width: 190px;
+		width: 300px;
 		margin-top: -10px;
 	}
 
